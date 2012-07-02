@@ -5,7 +5,7 @@ main() {
    printf("     .----------'    '-.\n");
    printf("    /  .      '     .   \\\n");
    printf("   /        '    .      /|\n");
-   printf("  /      .             \ /\n");
+   printf("  /      .              /\n");
    printf(" /  ' .       .     .  || |\n");
    printf("/.___________    '    / //\n");
    printf("|._          '------'| /|\n");
