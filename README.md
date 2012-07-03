@@ -19,7 +19,7 @@ Current Progress
 ================
 
 As of yet we only have a placeholder piece, other ASCII art is under development, but we need help with a number of things:
- * An ASCII art BLT to represent Fedora, freenode/#fedora-social endorses the BLT as a representative of Fedora, contact me if you are in conflict with this.
+ * An ASCII art BLT to represent Fedora(from a bird's-eye view), freenode/#fedora-social endorses the BLT as a representative of Fedora, contact me if you are in conflict with this.
  * Suggestions and reference imagery for sandwiches
 
 Currently, only two distribution communities have treated me with some seriousness and suggested sandwiches.
