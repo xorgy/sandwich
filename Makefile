@@ -1,7 +1,7 @@
 all: sandwich
 
 sandwich:
-	gcc sandwich.c -o sandwich
+	cc sandwich.c -o sandwich
 	./sandwich
 
 clean:
