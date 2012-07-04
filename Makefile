@@ -1,7 +1,9 @@
+CC = cc
+
 all: sandwich
 
 sandwich:
-	cc sandwich.c -o sandwich
+	$(CC) sandwich.c -o sandwich
 	./sandwich
 
 clean:
