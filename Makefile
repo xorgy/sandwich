@@ -1,9 +1,14 @@
+all: sandwich
+
 sandwich:
 	gcc sandwich.c -o sandwich
 	./sandwich
 
+clean:
+	rm -f ./sandwich
+
 install:
 	cp ./sandwich /usr/local/bin
 
-clean:
-	rm -f sandwich
+uninstall:
+	rm -f /usr/local/bin/sandwich
